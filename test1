@@ -1,3 +1,3 @@
-this is testprint ("hello world")
+print ("hello world")
 print("hello")
 prrint("hi")
